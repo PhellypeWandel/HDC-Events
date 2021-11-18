@@ -23,8 +23,8 @@ Created file "main.blade.php" in "\resources\views\layouts".
 
 In this files was imported:
 
-bootstrap styles from: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
-Ions icons from: https://unpkg.com/ionicons@5.1.2/dist/ionicons.js
-Roboto font from: https://fonts.googleapis.com/css2?family=Roboto
-styles.css from: /css/styles.css (local)
-scripts.js from: /js/scripts.js (local)
+bootstrap styles from: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css;
+Ions icons from: https://unpkg.com/ionicons@5.1.2/dist/ionicons.js;
+Roboto font from: https://fonts.googleapis.com/css2?family=Roboto;
+styles.css from: /css/styles.css (local);
+scripts.js from: /js/scripts.js (local).
