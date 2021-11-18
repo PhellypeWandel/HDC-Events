@@ -50,3 +50,9 @@ Created the Model "Event" in "\app\Models" to get all data from my database.
 Created migration "create_events_table.php" in "\app\database\migration" and migrated it creating the table "events in hdc database.
 
 add "use App\Models\Event;" in EventController to use the data from my database in my views.
+
+**version 0.4.0** Created Home Page.
+
+Created a home page with "welcome.blade.php" in "\resources\views" with a search bar and that shows the events saved in "events" table of the database "hdc".
+
+Also several changes was made um "styles.css" in "\public\css" to format the Home Page.
