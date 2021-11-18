@@ -17,7 +17,7 @@ Created file "EventController.php" in "\app\Http\Controller" to use has a contro
 
 Changed the route "web.php" in "\routes" to use controller "EventController".
 
-**version 0.2.0** Created layout for the pages.
+**version 0.2.0** - Created layout for the pages.
 
 Created file "main.blade.php" in "\resources\views\layouts".
 
@@ -28,3 +28,7 @@ Ions icons from: https://unpkg.com/ionicons@5.1.2/dist/ionicons.js;
 Roboto font from: https://fonts.googleapis.com/css2?family=Roboto;
 styles.css from: /css/styles.css (local);
 scripts.js from: /js/scripts.js (local).
+
+**version 0.2.1** - styles.css changes
+
+Created changes with the file "styles.css" in "\public\css" to add the font "Roboto" to the layout and make the image "hdcevents_logo.svg" smaller.
