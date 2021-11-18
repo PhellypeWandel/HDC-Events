@@ -32,3 +32,13 @@ scripts.js from: /js/scripts.js (local).
 **version 0.2.1** - styles.css changes
 
 Created changes with the file "styles.css" in "\public\css" to add the font "Roboto" to the layout and make the image "hdcevents_logo.svg" smaller.
+
+**version 0.3.0** Database conection.
+
+Created Database named "hdc" and conected to it in file ".env" changing "DB_DATABASE" in line 14
+
+Also had to a problem:
+
+"SQLSTATE[42000]: Syntax error or access violation: 1071 Specified key was too long; max key length is 1000 bytes (SQL: alter table `users` add unique `users_email_unique`(`email`))"
+
+To solve it I had to change "database.php" in "\config" line 60, from 'engine' => "null" to 'engine' => 'InnoDB'.
