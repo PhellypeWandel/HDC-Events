@@ -42,3 +42,11 @@ Also had to a problem:
 "SQLSTATE[42000]: Syntax error or access violation: 1071 Specified key was too long; max key length is 1000 bytes (SQL: alter table `users` add unique `users_email_unique`(`email`))"
 
 To solve it I had to change "database.php" in "\config" line 60, from 'engine' => "null" to 'engine' => 'InnoDB'.
+
+**version 0.3.1** Created Model
+
+Created the Model "Event" in "\app\Models" to get all data from my database.
+
+Created migration "create_events_table.php" in "\app\database\migration" and migrated it creating the table "events in hdc database.
+
+add "use App\Models\Event;" in EventController to use the data from my database in my views.
