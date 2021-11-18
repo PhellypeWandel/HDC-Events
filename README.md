@@ -56,3 +56,14 @@ add "use App\Models\Event;" in EventController to use the data from my database 
 Created a home page with "welcome.blade.php" in "\resources\views" with a search bar and that shows the events saved in "events" table of the database "hdc".
 
 Also several changes was made um "styles.css" in "\public\css" to format the Home Page.
+
+**version 0.5.0** Created "Create Event page".
+
+The page save events created by the user of the site.
+
+Created the page "creat.blade.php" in "\resoucers\views\events" thats save data in database throw a http form.
+
+updates in "wep.php", "EventController.php" and "styles.css".
+
+
+
