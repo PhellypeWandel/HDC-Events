@@ -65,5 +65,9 @@ Created the page "creat.blade.php" in "\resoucers\views\events" thats save data 
 
 updates in "wep.php", "EventController.php" and "styles.css".
 
+**version 0.5.1** Added flash mensage
 
+Now when a event is created the mensage 'Evento criado com sucesso!' appears on home page.
+
+There was updates in "styles.css", "main.blade.php" and "EventController.php".
 
