@@ -65,19 +65,19 @@ Created the page "creat.blade.php" in "\resoucers\views\events" thats save data 
 
 updates in "wep.php", "EventController.php" and "styles.css".
 
-**version 0.5.1** Added flash mensage
+**version 0.5.1** Added flash mensage.
 
 Now when a event is created the mensage 'Evento criado com sucesso!' appears on home page.
 
 There was updates in "styles.css", "main.blade.php" and "EventController.php".
 
-**version 0.5.2** Added upload of images
+**version 0.5.2** Added upload of images.
 
 Now it's possible to uplado a image when a event is been created, the image will be loaded in the home page with the description of the event
 
 updates in "EventController.php", "create.blade.php", "welcome.blade.php" and "styles.css".
 
-**version 0.6.0** Created page "Show"
+**version 0.6.0** Created page "Show".
 
 Created page show that shows the details of the events when you click in the button "saber mais" in home page.
 
@@ -89,8 +89,14 @@ Change made in the Model "Event.php" line 12 to get the data as array.
 
 Updatade "styles.css", "create.blade.php", "show.blade.php", "EventController.php", "Event.php".
 
-**version 0.6.2** Created event date
+**version 0.6.2** Created event date.
 
 Now its possible to select the date of the event while creating a evento in "create.blade.php", the date is showed in home page.
 
 Updates made in "create.blade.php", "welcome.blade.php", "EventController.php" and "Event.php"
+
+**version 0.6.3** Created search system.
+
+Now its possible to search events in home page.
+
+Updated "welcome.blade.php" and "EventController.php"
