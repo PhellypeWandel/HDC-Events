@@ -73,6 +73,6 @@ There was updates in "styles.css", "main.blade.php" and "EventController.php".
 
 **version 0.5.2** Added upload of images
 
-Now it's possible to uplado a image when a event is been created.
+Now it's possible to uplado a image when a event is been created, the image will be loaded in the home page with the description of the event
 
-updates in "EventController.php", "create.blade.php" and "styles.css".
+updates in "EventController.php", "create.blade.php", "welcome.blade.php" and "styles.css".
