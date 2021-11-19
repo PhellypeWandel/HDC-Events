@@ -80,3 +80,11 @@ updates in "EventController.php", "create.blade.php", "welcome.blade.php" and "s
 **version 0.6.0** Created page "Show"
 
 Created page show that shows the details of the events when you click in the button "saber mais" in home page.
+
+**version 0.6.1** Created a list of options in the event creation
+
+Created a 5 options list that appears in "Show" page.
+
+Change made in the Model "Event.php" line 12 to get the data as array.
+
+Updatade "styles.css", "create.blade.php", "show.blade.php", "EventController.php", "Event.php".
