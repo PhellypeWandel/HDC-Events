@@ -100,3 +100,7 @@ Updates made in "create.blade.php", "welcome.blade.php", "EventController.php" a
 Now its possible to search events in home page.
 
 Updated "welcome.blade.php" and "EventController.php"
+
+**version 0.7.0** Created authentication system.
+
+Created a Login/Register system instaling jetstream with composer.
