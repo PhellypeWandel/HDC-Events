@@ -76,3 +76,7 @@ There was updates in "styles.css", "main.blade.php" and "EventController.php".
 Now it's possible to uplado a image when a event is been created, the image will be loaded in the home page with the description of the event
 
 updates in "EventController.php", "create.blade.php", "welcome.blade.php" and "styles.css".
+
+**version 0.6.0** Created page "Show"
+
+Created page show that shows the details of the events when you click in the button "saber mais" in home page.
