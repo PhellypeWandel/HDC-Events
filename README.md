@@ -88,3 +88,9 @@ Created a 5 options list that appears in "Show" page.
 Change made in the Model "Event.php" line 12 to get the data as array.
 
 Updatade "styles.css", "create.blade.php", "show.blade.php", "EventController.php", "Event.php".
+
+**version 0.6.2** Created event date
+
+Now its possible to select the date of the event while creating a evento in "create.blade.php", the date is showed in home page.
+
+Updates made in "create.blade.php", "welcome.blade.php", "EventController.php" and "Event.php"
