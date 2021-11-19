@@ -71,3 +71,8 @@ Now when a event is created the mensage 'Evento criado com sucesso!' appears on 
 
 There was updates in "styles.css", "main.blade.php" and "EventController.php".
 
+**version 0.5.2** Added upload of images
+
+Now it's possible to uplado a image when a event is been created.
+
+updates in "EventController.php", "create.blade.php" and "styles.css".
